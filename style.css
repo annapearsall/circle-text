@@ -1,9 +1,13 @@
-/* beautiful styling below */
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
+
 body {
     background-image: url("assets/night-landscape.png");
     background-size: cover;
 }
 
 p {
+    font-family: 'Comfortaa', sans-serif;
     color: #faf39d;
+    margin-top: 159px;
+    font-size: 2em;
   }
