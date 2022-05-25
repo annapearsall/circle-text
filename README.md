@@ -1,1 +1,2 @@
-# boilerplate
+# Circle Text JS Library
+Here I have a design that uses Circle Text JS Library (https://circletype.labwire.ca/). The quote is from Shakespeare's Romeo and Juliet. I designed the illustration in Adobe Illustrator.
