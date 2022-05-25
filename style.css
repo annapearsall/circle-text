@@ -1,4 +1,9 @@
 /* beautiful styling below */
 body {
-    background: lavender;
+    background-image: url("assets/night-landscape.png");
+    background-size: cover;
 }
+
+p {
+    color: #faf39d;
+  }
